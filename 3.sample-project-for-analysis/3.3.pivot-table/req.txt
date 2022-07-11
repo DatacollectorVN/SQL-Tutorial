@@ -1,0 +1,3 @@
+Here we’re breaking down the count of order_id by primary_product_id (rows) and 
+items_purchased (columns) to see how many orders were placed for each primary 
+product and how many of those orders included multiple items.
