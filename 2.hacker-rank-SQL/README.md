@@ -1,4 +1,4 @@
-# Data-Engineer-Fundamental
+# SQL Tutorial
 This folder contains all my-own self-learning about SQL.
 
 # Hacker Rank SQL:
